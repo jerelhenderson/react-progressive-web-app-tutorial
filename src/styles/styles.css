@@ -113,7 +113,7 @@ p {
 	border-radius: 44px;
 	margin-left: 10px;
 	overflow: hidden;
-	width: 44px;
+	width: 54px;
 	height: 44px;
 	box-sizing: border-box;
 	border: 3px solid transparent;
@@ -145,7 +145,7 @@ p {
 	width: 100%;
 	position: relative;
 	background-size: cover;
-	min-height: 600px;
+	min-height: 550px;
 }
 
 .hero .content {
