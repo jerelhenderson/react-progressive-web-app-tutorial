@@ -1,1 +1,5 @@
+#depencies
 node_modules
+
+#secrets
+.env
