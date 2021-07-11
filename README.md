@@ -6,14 +6,14 @@ Both cases are provided below!
 
 ## Demo It 📺
 ...using the dope hosting service Vercel!
-[Click here]()
+[Click here](https://react-progressive-web-app-tutorial.vercel.app/)
 
 <p align="center">
 <img alt="React PWA" width="50%" src="preview.png" />
 </p>
 
 ## Build It 🏗
-1. Clone this repository `git clone ` and hop into the directory
+1. Clone this repository `git clone https://github.com/jerelhenderson/react-progressive-web-app-tutorial` and hop into the directory
 2. You'll need an API key from [TMDB](https://developers.themoviedb.org/3/getting-started/introduction). Don't worry - it's free!
 3. Paste your newly created key into the `.env-example` file, then `Save As` the file as `.env`
 4. Run `npm install` to grab the required dependencies
