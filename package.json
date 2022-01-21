@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "webpack-dev-server": "webpack-dev-server",
-    "dev": "webpack serve --mode=development --host 0.0.0.0 --port 4200",
+    "dev": "webpack serve --mode=development",
     "prod": "NODE_ENV=production webpack --mode=development",
-    "serve": "npm run prod && serve -s dist --host 0.0.0.0 --port 4200",
+    "serve": "npm run prod && serve -s dist",
     "svg": "svgr -d src/components/icons src/components/icons/svgs"
   },
   "author": "Jerel Henderson",

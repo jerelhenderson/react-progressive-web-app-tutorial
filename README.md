@@ -19,4 +19,4 @@ Both cases are provided below!
 4. Run `npm install` to grab the required dependencies
 
 ## Run It 🏃🏿‍♂️
-5. Use `npm run dev` to start the server at [http://0.0.0.0:4200/](http://0.0.0.0:4200)
+5. Use `npm run dev` to start the server at [http://localhost:8080/](http://localhost:8080)
