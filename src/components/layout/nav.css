@@ -1,0 +1,20 @@
+.navigation ul {
+	display: flex;
+	height: 37px;
+	align-items: center;
+	padding: 0 10px;
+}
+
+.navigation ul li {
+	font-weight: 400;
+	padding: 7px 10px;
+	font-size: 14px;
+	transition: background 0.125s ease;
+	border-radius: 3px;
+	white-space: nowrap;
+}
+
+.navigation ul li:hover {
+	background: #e50914;
+	cursor: pointer;
+}

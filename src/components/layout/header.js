@@ -2,7 +2,7 @@ import React from 'react';
 import { NetflixLogo } from '../icons';
 import { Link } from '@reach/router';
 import Nav from './nav';
-import '../../images/netflix-logo.png'
+import './header.css';
 
 const Header = () => {
     return (

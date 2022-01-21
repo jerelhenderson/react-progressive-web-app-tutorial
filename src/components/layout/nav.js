@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from '@reach/router';
-
+import './nav.css';
 
 const Nav = ({children}) => {
     return (

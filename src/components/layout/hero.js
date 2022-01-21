@@ -1,6 +1,7 @@
 import React from 'react';
 import STLogo from '../../images/strangerthings-logo.png';
 import NetflixBackgroundImage from '../../images/netflix-background.jpg'
+import './hero.css';
 
 const Hero = () => {
     return (
@@ -9,7 +10,7 @@ const Hero = () => {
                 <img className="logo" src={STLogo} />
                 <h2>Season 4 Coming Soon!</h2>
                 <p>
-                    The Hawkins Gang will return!
+                    The Hawkins Gang will return... someday!
                 </p>
                 <div className="button-wrapper">
                     <a href="#" className="button-el">Watch now</a>
