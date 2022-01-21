@@ -1,5 +1,5 @@
 # React Progressive Web App with Webpack Tutorial
-This repository contains a Netflix-like emulator progressive web app built with React. The project follows part one of the Udemy course: [React Progressive Web App With Workbox and Webpack Tutorial](https://www.udemy.com/course/react-progressive-web-app-with-workbox-and-webpack-tutorial/)
+This repository contains a Netflix-like emulator progressive web app built with React (with caching done using Google Workbox). The project follows parts one and two of the Udemy course: [React Progressive Web App With Workbox and Webpack Tutorial](https://www.udemy.com/course/react-progressive-web-app-with-workbox-and-webpack-tutorial/)
 
 You can build the application yourself to check it out or use the below-linked demo site to preview it.
 Both cases are provided below!
